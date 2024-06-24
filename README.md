@@ -22,7 +22,7 @@ This is a classic Snake game implemented in Python using the `turtle` module. Th
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/pranavvv30/snake-game.git
     cd snake-game
     ```
 
