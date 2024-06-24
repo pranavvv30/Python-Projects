@@ -81,4 +81,39 @@ To run the game, navigate to the directory containing the script and execute:
 python main.py
 ```
 
+# Tic-Tac-Toe Game
+
+## Overview
+
+This is a simple Tic-Tac-Toe game implemented in Python using the `turtle` module. The game allows two players to take turns to place their markers (X and O) on a 3x3 grid. The objective is to get three of your markers in a row, either horizontally, vertically, or diagonally.
+
+## Features
+
+- Classic 3x3 grid Tic-Tac-Toe game
+- Two-player mode (Player X and Player O)
+- Game status updates after each turn
+- Checks for win or tie conditions
+- Reset button to start a new game
+
+## Prerequisites
+
+- Python 3.x
+- Turtle module (included with the standard Python installation)
+
+## Installation
+
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/pranavvv30/tic-tac-toe-game.git
+    cd tic-tac-toe-game
+    ```
+
+2. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
+
+## Usage
+
+To run the game, navigate to the directory containing the script and execute:
+
+```bash
+python tic_tac_toe.py
 
