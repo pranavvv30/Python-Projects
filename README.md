@@ -29,7 +29,11 @@ This is a classic Snake game implemented in Python using the `turtle` module. Th
 2. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
 ## Usage
+To run the game, navigate to the directory containing the script and execute:
 
+```bash
+python snake_game.py
+```
 
 # Multi-Functional Tkinter Application
 
@@ -77,7 +81,4 @@ To run the game, navigate to the directory containing the script and execute:
 python main.py
 ```
 
-To run the game, navigate to the directory containing the script and execute:
 
-```bash
-python snake_game.py
